@@ -2,11 +2,19 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.2rem;
 }
+.form{
+  display: block;
+  background: red;
+  margin: 0 auto;
+  width: 400px;
+  height: 800px;
+}
 label, .radio {
   display: block;
   margin:30px 0 10px 0;
 }
 input {
+  width: 340px;
   font-size: 1.2rem;
   padding: 10px;
   /*border: 2px solid black;
